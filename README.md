@@ -1,1 +1,3 @@
 # devtools
+
+Place .eslintrc into ~
